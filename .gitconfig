@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = "fullNelson14"
+	email = bradjnelson14@gmail.com
+[core]
+	filemode = false

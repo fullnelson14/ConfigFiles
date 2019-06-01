@@ -1,0 +1,19 @@
+#random aliases
+alias pping="~/prettyping --nolegend"
+
+
+
+#ls aliases
+alias l="ls -al"
+
+
+#git aliases
+alias gs="git status"
+alias gaa="git add ."
+alias gp="git push -u origin master"
+
+
+#cd aliases
+alias cdp="cd ~/create-projects"
+alias cdf="cd ~/homeW/CreateDev"
+alias r="cd .."
